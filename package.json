@@ -8,7 +8,8 @@
   },
   "keywords": [
     "esmodules",
-    "express"
+    "express",
+    "nodemon"
   ],
   "author": "Bruce Taylor",
   "license": "ISC",
