@@ -1,6 +1,6 @@
-# ESM Modules
+# ES Modules
 
-Playing around with ES modules just cause.
+Playing around with **ES modules** just cause.
 
 ---
 
